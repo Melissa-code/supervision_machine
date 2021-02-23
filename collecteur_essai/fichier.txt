@@ -1,0 +1,135 @@
+Le taux d'utilisation des CPUs est : 10.3% ;
+Le taux d'utilisation de la mémoire est : 54.6% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570232156octets ;
+-----------------------------Wed Feb 10 22:57:18 2021------------------------------
+Le taux d'utilisation des CPUs est : 14.7% ;
+Le taux d'utilisation de la mémoire est : 54.8% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570238182octets ;
+-----------------------------Wed Feb 10 22:57:29 2021------------------------------
+Le taux d'utilisation des CPUs est : 17.4% ;
+Le taux d'utilisation de la mémoire est : 54.8% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570242853octets ;
+-----------------------------Wed Feb 10 22:57:40 2021------------------------------
+Le taux d'utilisation des CPUs est : 13.5% ;
+Le taux d'utilisation de la mémoire est : 54.7% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570247371octets ;
+-----------------------------Wed Feb 10 22:57:51 2021------------------------------
+Le taux d'utilisation des CPUs est : 13.0% ;
+Le taux d'utilisation de la mémoire est : 54.6% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570253412octets ;
+-----------------------------Wed Feb 10 22:58:02 2021------------------------------
+Le taux d'utilisation des CPUs est : 21.0% ;
+Le taux d'utilisation de la mémoire est : 54.7% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570258302octets ;
+-----------------------------Wed Feb 10 22:58:13 2021------------------------------
+Le taux d'utilisation des CPUs est : 13.8% ;
+Le taux d'utilisation de la mémoire est : 54.5% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570261663octets ;
+-----------------------------Wed Feb 10 22:58:24 2021------------------------------
+Le taux d'utilisation des CPUs est : 26.9% ;
+Le taux d'utilisation de la mémoire est : 54.8% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570267073octets ;
+-----------------------------Wed Feb 10 22:58:35 2021------------------------------
+Le taux d'utilisation des CPUs est : 16.2% ;
+Le taux d'utilisation de la mémoire est : 54.6% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570270686octets ;
+-----------------------------Wed Feb 10 22:58:46 2021------------------------------
+Le taux d'utilisation des CPUs est : 13.5% ;
+Le taux d'utilisation de la mémoire est : 54.6% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570273669octets ;
+-----------------------------Wed Feb 10 22:58:57 2021------------------------------
+Le taux d'utilisation des CPUs est : 16.5% ;
+Le taux d'utilisation de la mémoire est : 54.9% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570279239octets ;
+-----------------------------Wed Feb 10 22:59:08 2021------------------------------
+Le taux d'utilisation des CPUs est : 14.6% ;
+Le taux d'utilisation de la mémoire est : 54.5% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570283063octets ;
+-----------------------------Wed Feb 10 22:59:19 2021------------------------------
+Le taux d'utilisation des CPUs est : 14.3% ;
+Le taux d'utilisation de la mémoire est : 54.7% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570287683octets ;
+-----------------------------Wed Feb 10 22:59:30 2021------------------------------
+Le taux d'utilisation des CPUs est : 14.6% ;
+Le taux d'utilisation de la mémoire est : 54.6% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570290424octets ;
+-----------------------------Wed Feb 10 22:59:41 2021------------------------------
+Le taux d'utilisation des CPUs est : 14.2% ;
+Le taux d'utilisation de la mémoire est : 54.6% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570295094octets ;
+-----------------------------Wed Feb 10 22:59:52 2021------------------------------
+Le taux d'utilisation des CPUs est : 14.5% ;
+Le taux d'utilisation de la mémoire est : 54.9% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570310828octets ;
+-----------------------------Wed Feb 10 23:00:03 2021------------------------------
+Le taux d'utilisation des CPUs est : 17.3% ;
+Le taux d'utilisation de la mémoire est : 54.8% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570316665octets ;
+-----------------------------Wed Feb 10 23:00:14 2021------------------------------
+Le taux d'utilisation des CPUs est : 9.5% ;
+Le taux d'utilisation de la mémoire est : 54.8% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570320465octets ;
+-----------------------------Wed Feb 10 23:00:25 2021------------------------------
+Le taux d'utilisation des CPUs est : 17.9% ;
+Le taux d'utilisation de la mémoire est : 54.9% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570324451octets ;
+-----------------------------Wed Feb 10 23:00:36 2021------------------------------
+Le taux d'utilisation des CPUs est : 21.4% ;
+Le taux d'utilisation de la mémoire est : 54.8% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570327192octets ;
+-----------------------------Wed Feb 10 23:00:47 2021------------------------------
+Le taux d'utilisation des CPUs est : 22.8% ;
+Le taux d'utilisation de la mémoire est : 54.7% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570331325octets ;
+-----------------------------Wed Feb 10 23:00:58 2021------------------------------
+Le taux d'utilisation des CPUs est : 20.6% ;
+Le taux d'utilisation de la mémoire est : 54.8% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570334351octets ;
+-----------------------------Wed Feb 10 23:01:09 2021------------------------------
+Le taux d'utilisation des CPUs est : 15.1% ;
+Le taux d'utilisation de la mémoire est : 54.7% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570338249octets ;
+-----------------------------Wed Feb 10 23:01:20 2021------------------------------
+Le taux d'utilisation des CPUs est : 14.2% ;
+Le taux d'utilisation de la mémoire est : 54.8% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570351922octets ;
+-----------------------------Wed Feb 10 23:01:50 2021------------------------------
+Le taux d'utilisation des CPUs est : 14.9% ;
+Le taux d'utilisation de la mémoire est : 54.8% ;
+Le taux d'occupation des disques est : 5.8% ;
+Le volume d'information transmis par les interfaces réseau est : 570365316octets ;
+-----------------------------Wed Feb 10 23:02:02 2021------------------------------
+Le taux d'utilisation des CPUs est : 6.4% ;
+Le taux d'utilisation de la mémoire est : 55.3% ;
+Le taux d'occupation des disques est : 5.9% ;
+Le volume d'information transmis par les interfaces réseau est : 1403086084octets ;
+-----------------------------Thu Feb 11 19:51:29 2021------------------------------
+Le taux d'utilisation des CPUs est : 2.7% ;
+Le taux d'utilisation de la mémoire est : 55.3% ;
+Le taux d'occupation des disques est : 5.9% ;
+Le volume d'information transmis par les interfaces réseau est : 1403094346octets ;
+-----------------------------Thu Feb 11 19:51:40 2021------------------------------

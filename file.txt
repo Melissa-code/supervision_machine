@@ -1,0 +1,368 @@
+-----------------------------Thu Feb 11 19:43:32 2021------------------------------
+
+1. The usage ration of CPUs is : 12.6 %; 
+ 
+
+2. The virtual memory stats are : 
+ - total: 17179869184 octets, 
+ - available: 6547816448 octets, 
+ - percent: 61.9 %, 
+ - used: 9287839744 octets, 
+ - free: 86343680 octets; 
+ 
+
+3. The disk usage stats are : 
+ - total: 499963174912 octets, 
+ - used: 22719578112 octets, 
+ - free: 364142034944 octets, 
+ - percent: 5.9 %; 
+ 
+
+4. The value of the sent bytes counter is : 1400539986 octets; 
+ 
+
+-----------------------------Thu Feb 11 19:43:43 2021------------------------------
+
+1. The usage ration of CPUs is : 5.2 %; 
+ 
+
+2. The virtual memory stats are : 
+ - total: 17179869184 octets, 
+ - available: 6584041472 octets, 
+ - percent: 61.7 %, 
+ - used: 9252540416 octets, 
+ - free: 116051968 octets; 
+ 
+
+3. The disk usage stats are : 
+ - total: 499963174912 octets, 
+ - used: 22719578112 octets, 
+ - free: 364142034944 octets, 
+ - percent: 5.9 %; 
+ 
+
+4. The value of the sent bytes counter is : 1400548776 octets; 
+ 
+
+-----------------------------Thu Feb 11 19:43:54 2021------------------------------
+
+1. The usage ration of CPUs is : 3.6 %; 
+ 
+
+2. The virtual memory stats are : 
+ - total: 17179869184 octets, 
+ - available: 6597562368 octets, 
+ - percent: 61.6 %, 
+ - used: 9238564864 octets, 
+ - free: 110972928 octets; 
+ 
+
+3. The disk usage stats are : 
+ - total: 499963174912 octets, 
+ - used: 22719578112 octets, 
+ - free: 364140965888 octets, 
+ - percent: 5.9 %; 
+ 
+
+4. The value of the sent bytes counter is : 1400559599 octets; 
+ 
+
+-----------------------------Thu Feb 11 19:44:05 2021------------------------------
+
+1. The usage ration of CPUs is : 14.1 %; 
+ 
+
+2. The virtual memory stats are : 
+ - total: 17179869184 octets, 
+ - available: 6618734592 octets, 
+ - percent: 61.5 %, 
+ - used: 9217863680 octets, 
+ - free: 88772608 octets; 
+ 
+
+3. The disk usage stats are : 
+ - total: 499963174912 octets, 
+ - used: 22719578112 octets, 
+ - free: 364140957696 octets, 
+ - percent: 5.9 %; 
+ 
+
+4. The value of the sent bytes counter is : 1400576201 octets; 
+ 
+
+-----------------------------Thu Feb 11 19:44:16 2021------------------------------
+
+1. The usage ration of CPUs is : 11.6 %; 
+ 
+
+2. The virtual memory stats are : 
+ - total: 17179869184 octets, 
+ - available: 6524968960 octets, 
+ - percent: 62.0 %, 
+ - used: 9311391744 octets, 
+ - free: 24125440 octets; 
+ 
+
+3. The disk usage stats are : 
+ - total: 499963174912 octets, 
+ - used: 22719578112 octets, 
+ - free: 364139716608 octets, 
+ - percent: 5.9 %; 
+ 
+
+4. The value of the sent bytes counter is : 1401119165 octets; 
+ 
+
+-----------------------------Thu Feb 11 19:47:03 2021------------------------------
+
+1. The usage ration of CPUs is : 10.8 %; 
+ 
+
+2. The virtual memory stats are : 
+ - total: 17179869184 octets, 
+ - available: 8743550976 octets, 
+ - percent: 49.1 %, 
+ - used: 7037423616 octets, 
+ - free: 2691256320 octets; 
+ 
+
+3. The disk usage stats are : 
+ - total: 499963174912 octets, 
+ - used: 22719578112 octets, 
+ - free: 364123119616 octets, 
+ - percent: 5.9 %; 
+ 
+
+4. The value of the sent bytes counter is : 1401957392 octets; 
+ 
+
+-----------------------------Thu Feb 11 19:47:14 2021------------------------------
+
+1. The usage ration of CPUs is : 6.1 %; 
+ 
+
+2. The virtual memory stats are : 
+ - total: 17179869184 octets, 
+ - available: 8793788416 octets, 
+ - percent: 48.8 %, 
+ - used: 6987415552 octets, 
+ - free: 2738298880 octets; 
+ 
+
+3. The disk usage stats are : 
+ - total: 499963174912 octets, 
+ - used: 22719578112 octets, 
+ - free: 364123111424 octets, 
+ - percent: 5.9 %; 
+ 
+
+4. The value of the sent bytes counter is : 1401972067 octets; 
+ 
+
+-----------------------------Thu Feb 11 19:47:25 2021------------------------------
+
+1. The usage ration of CPUs is : 2.5 %; 
+ 
+
+2. The virtual memory stats are : 
+ - total: 17179869184 octets, 
+ - available: 8776282112 octets, 
+ - percent: 48.9 %, 
+ - used: 7004954624 octets, 
+ - free: 2720468992 octets; 
+ 
+
+3. The disk usage stats are : 
+ - total: 499963174912 octets, 
+ - used: 22719578112 octets, 
+ - free: 364123086848 octets, 
+ - percent: 5.9 %; 
+ 
+
+4. The value of the sent bytes counter is : 1401979105 octets; 
+ 
+
+-----------------------------Thu Feb 11 19:47:36 2021------------------------------
+
+1. The usage ration of CPUs is : 5.0 %; 
+ 
+
+2. The virtual memory stats are : 
+ - total: 17179869184 octets, 
+ - available: 8772517888 octets, 
+ - percent: 48.9 %, 
+ - used: 7008051200 octets, 
+ - free: 2717769728 octets; 
+ 
+
+3. The disk usage stats are : 
+ - total: 499963174912 octets, 
+ - used: 22719578112 octets, 
+ - free: 364123082752 octets, 
+ - percent: 5.9 %; 
+ 
+
+4. The value of the sent bytes counter is : 1401988025 octets; 
+ 
+
+-----------------------------Thu Feb 11 19:47:47 2021------------------------------
+
+1. The usage ration of CPUs is : 11.0 %; 
+ 
+
+2. The virtual memory stats are : 
+ - total: 17179869184 octets, 
+ - available: 8752250880 octets, 
+ - percent: 49.1 %, 
+ - used: 7028232192 octets, 
+ - free: 2697519104 octets; 
+ 
+
+3. The disk usage stats are : 
+ - total: 499963174912 octets, 
+ - used: 22719578112 octets, 
+ - free: 364123082752 octets, 
+ - percent: 5.9 %; 
+ 
+
+4. The value of the sent bytes counter is : 1401996757 octets; 
+ 
+
+-----------------------------Thu Feb 11 19:47:58 2021------------------------------
+
+1. The usage ration of CPUs is : 5.0 %; 
+ 
+
+2. The virtual memory stats are : 
+ - total: 17179869184 octets, 
+ - available: 8773656576 octets, 
+ - percent: 48.9 %, 
+ - used: 7008112640 octets, 
+ - free: 2721116160 octets; 
+ 
+
+3. The disk usage stats are : 
+ - total: 499963174912 octets, 
+ - used: 22719578112 octets, 
+ - free: 364123082752 octets, 
+ - percent: 5.9 %; 
+ 
+
+4. The value of the sent bytes counter is : 1402011655 octets; 
+ 
+
+-----------------------------Thu Feb 11 19:48:09 2021------------------------------
+
+1. The usage ration of CPUs is : 13.8 %; 
+ 
+
+2. The virtual memory stats are : 
+ - total: 17179869184 octets, 
+ - available: 8771932160 octets, 
+ - percent: 48.9 %, 
+ - used: 7009406976 octets, 
+ - free: 2719576064 octets; 
+ 
+
+3. The disk usage stats are : 
+ - total: 499963174912 octets, 
+ - used: 22719578112 octets, 
+ - free: 364123082752 octets, 
+ - percent: 5.9 %; 
+ 
+
+4. The value of the sent bytes counter is : 1402018537 octets; 
+ 
+
+-----------------------------Thu Feb 11 19:48:20 2021------------------------------
+
+1. The usage ration of CPUs is : 1.9 %; 
+ 
+
+2. The virtual memory stats are : 
+ - total: 17179869184 octets, 
+ - available: 8792821760 octets, 
+ - percent: 48.8 %, 
+ - used: 6988296192 octets, 
+ - free: 2740518912 octets; 
+ 
+
+3. The disk usage stats are : 
+ - total: 499963174912 octets, 
+ - used: 22719578112 octets, 
+ - free: 364123082752 octets, 
+ - percent: 5.9 %; 
+ 
+
+4. The value of the sent bytes counter is : 1402028615 octets; 
+ 
+
+-----------------------------Thu Feb 11 19:48:31 2021------------------------------
+
+1. The usage ration of CPUs is : 7.6 %; 
+ 
+
+2. The virtual memory stats are : 
+ - total: 17179869184 octets, 
+ - available: 7951319040 octets, 
+ - percent: 53.7 %, 
+ - used: 7830020096 octets, 
+ - free: 1900748800 octets; 
+ 
+
+3. The disk usage stats are : 
+ - total: 499963174912 octets, 
+ - used: 22719578112 octets, 
+ - free: 364123082752 octets, 
+ - percent: 5.9 %; 
+ 
+
+4. The value of the sent bytes counter is : 1402037915 octets; 
+ 
+
+-----------------------------Thu Feb 11 20:45:58 2021------------------------------
+
+1. The usage ration of CPUs is : 8.8 %; 
+ 
+
+2. The virtual memory stats are : 
+ - total: 17179869184 octets, 
+ - available: 7473823744 octets, 
+ - percent: 56.5 %, 
+ - used: 8552501248 octets, 
+ - free: 1723125760 octets; 
+ 
+
+3. The disk usage stats are : 
+ - total: 499963174912 octets, 
+ - used: 22719578112 octets, 
+ - free: 364048650240 octets, 
+ - percent: 5.9 %; 
+ 
+
+4. The value of the sent bytes counter is : 1420178325 octets; 
+ 
+
+-----------------------------Thu Feb 11 20:46:09 2021------------------------------
+
+1. The usage ration of CPUs is : 5.7 %; 
+ 
+
+2. The virtual memory stats are : 
+ - total: 17179869184 octets, 
+ - available: 7482281984 octets, 
+ - percent: 56.4 %, 
+ - used: 8544235520 octets, 
+ - free: 1738780672 octets; 
+ 
+
+3. The disk usage stats are : 
+ - total: 499963174912 octets, 
+ - used: 22719578112 octets, 
+ - free: 364048650240 octets, 
+ - percent: 5.9 %; 
+ 
+
+4. The value of the sent bytes counter is : 1420186349 octets; 
+ 
+
